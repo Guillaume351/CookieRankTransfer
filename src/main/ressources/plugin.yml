@@ -1,0 +1,17 @@
+name: CookieRankTransfer
+main: main.java.Main
+
+version: "1.0.0"
+api: ["1.0.0"]
+
+load: POSTWORLD
+author: Guillaume351
+description: Transfer ranks from v1 to v2 of Cookie Build.
+
+
+commands:
+
+
+
+permissions:
+  
