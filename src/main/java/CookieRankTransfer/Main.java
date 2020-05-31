@@ -23,7 +23,7 @@ public class Main extends PluginBase implements Listener {
         String allVips = config.getString("vips");
         vips = Arrays.asList(allVips.split(","));
 
-        String allUltra = config.getString("ultraVips");
+        String allUltra = config.getString("ultras");
         ultras = Arrays.asList(allUltra.split(","));
 
         this.getServer().getLogger().info("VIPs loaded : " + vips.size());

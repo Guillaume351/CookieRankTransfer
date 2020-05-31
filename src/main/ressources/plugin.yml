@@ -1,5 +1,5 @@
 name: CookieRankTransfer
-main: main.java.Main
+main: main.java.CookieRankTransfer.Main
 
 version: "1.0.0"
 api: ["1.0.0"]
@@ -14,4 +14,3 @@ commands:
 
 
 permissions:
-  
